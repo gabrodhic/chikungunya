@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChikungunyApp</string>
+    <string name="app_id">720635298368</string>
+    <string name="interstitial_ad_id">ca-app-pub-8851047421541839/5532966904</string>
+    <string name="interstitial_ad_id_test">ca-app-pub-8851047421541839/6980214909</string>
+    <string name="interstitial_ad_id_exit">ca-app-pub-8851047421541839/8809334101</string>
+
+</resources>

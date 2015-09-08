@@ -1,0 +1,389 @@
+
+mypack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_close
+  rotate: false
+  xy: 204, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+_ok
+  rotate: false
+  xy: 571, 63
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+_popup
+  rotate: false
+  xy: 2, 50
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+_rating
+  rotate: false
+  xy: 2, 11
+  size: 200, 37
+  orig: 200, 37
+  offset: 0, 0
+  index: -1
+bullet_spark
+  rotate: false
+  xy: 418, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 935, 230
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 571, 200
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+facebook_icon
+  rotate: false
+  xy: 304, 8
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+fire_sprite
+  rotate: false
+  xy: 2, 352
+  size: 1000, 667
+  orig: 1000, 667
+  offset: 0, 0
+  index: -1
+flyby_down
+  rotate: false
+  xy: 753, 200
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+info_button
+  rotate: false
+  xy: 470, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+laser_gun
+  rotate: false
+  xy: 730, 3
+  size: 180, 71
+  orig: 180, 71
+  offset: 0, 0
+  index: -1
+minus_button
+  rotate: false
+  xy: 522, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+more_button
+  rotate: false
+  xy: 574, 11
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+play_button
+  rotate: false
+  xy: 850, 76
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+plus_button
+  rotate: false
+  xy: 626, 11
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+pointer
+  rotate: false
+  xy: 912, 2
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+pointer2
+  rotate: false
+  xy: 246, 28
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pointer4
+  rotate: false
+  xy: 678, 11
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+score_board
+  rotate: false
+  xy: 708, 76
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+score_board_lb
+  rotate: false
+  xy: 1004, 1012
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 304, 60
+  size: 265, 290
+  orig: 265, 290
+  offset: 0, 0
+  index: -1
+swatter
+  rotate: false
+  xy: 978, 78
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+
+mypack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 309
+  size: 502, 700
+  orig: 502, 700
+  offset: 0, 0
+  index: -1
+background3
+  rotate: false
+  xy: 506, 309
+  size: 502, 700
+  orig: 502, 700
+  offset: 0, 0
+  index: -1
+flyby_up
+  rotate: false
+  xy: 104, 2
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+gatling_gun
+  rotate: false
+  xy: 2, 107
+  size: 86, 200
+  orig: 86, 200
+  offset: 0, 0
+  index: -1
+hurt2_down
+  rotate: false
+  xy: 164, 157
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+hurt2_up
+  rotate: false
+  xy: 286, 5
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+hurt3_down
+  rotate: false
+  xy: 346, 157
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+hurt3_up
+  rotate: false
+  xy: 468, 5
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+hurt_down
+  rotate: false
+  xy: 528, 157
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+hurt_up
+  rotate: false
+  xy: 650, 5
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+normal_down
+  rotate: false
+  xy: 710, 157
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+normal_up
+  rotate: false
+  xy: 832, 5
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+play_button222
+  rotate: false
+  xy: 2, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+score_button
+  rotate: false
+  xy: 892, 184
+  size: 126, 123
+  orig: 126, 123
+  offset: 0, 0
+  index: -1
+spray
+  rotate: false
+  xy: 90, 154
+  size: 72, 153
+  orig: 72, 153
+  offset: 0, 0
+  index: -1
+
+mypack3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_app_icon
+  rotate: false
+  xy: 414, 60
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+_dislike
+  rotate: false
+  xy: 902, 801
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+_like
+  rotate: false
+  xy: 560, 124
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+background2
+  rotate: false
+  xy: 2, 393
+  size: 496, 627
+  orig: 496, 627
+  offset: 0, 0
+  index: -1
+bomb_fly_sprite
+  rotate: false
+  xy: 2, 2
+  size: 410, 389
+  orig: 410, 389
+  offset: 0, 0
+  index: -1
+bullet_hole
+  rotate: false
+  xy: 414, 206
+  size: 555, 119
+  orig: 555, 119
+  offset: 0, 0
+  index: -1
+detonation_sprite
+  rotate: false
+  xy: 500, 631
+  size: 400, 389
+  orig: 400, 389
+  offset: 0, 0
+  index: -1
+laser_shot
+  rotate: false
+  xy: 864, 529
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+share_icon
+  rotate: false
+  xy: 414, 341
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 902, 882
+  size: 119, 138
+  orig: 119, 138
+  offset: 0, 0
+  index: -1
+smile_down
+  rotate: false
+  xy: 500, 479
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+smile_up
+  rotate: false
+  xy: 682, 479
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+tongue_down
+  rotate: false
+  xy: 500, 327
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+tongue_up
+  rotate: false
+  xy: 682, 327
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+volume_button
+  rotate: false
+  xy: 414, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

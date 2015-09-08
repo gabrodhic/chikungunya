@@ -1,0 +1,110 @@
+com.protogab.chikungunya.ActionResolver:
+    public abstract void showAlertBoxNeutral(java.lang.String,java.lang.String,java.lang.String)
+    public abstract boolean showAlertBoxYesNo(java.lang.String,java.lang.String)
+    public abstract void initialize()
+    public abstract void stop()
+    public abstract void showAds(boolean)
+    public abstract void getAchievementsGPGS()
+com.protogab.chikungunya.AndroidLauncher:
+    protected android.view.View gameView
+    156:169:public void showAlertBoxNeutral(java.lang.String,java.lang.String,java.lang.String)
+    172:187:public boolean showAlertBoxYesNo(java.lang.String,java.lang.String)
+    282:308:public void initialize()
+    357:360:public void stop()
+    368:382:public void showAds(boolean)
+    472:479:public void getAchievementsGPGS()
+com.protogab.chikungunya.AndroidLauncher$2
+com.protogab.chikungunya.AndroidLauncher$2$1
+com.protogab.chikungunya.AndroidLauncher$3
+com.protogab.chikungunya.AndroidLauncher$3$1
+com.protogab.chikungunya.AndroidLauncher$5
+com.protogab.chikungunya.AndroidLauncher$5$1
+com.protogab.chikungunya.BuildConfig
+com.protogab.chikungunya.Chikungunya:
+    public static final java.lang.String PREFS_NAME
+    private static final java.lang.String PREF_CURRENT_LEVEL
+    private static final java.lang.String PREF_SELECTED_LEVEL
+    private static final java.lang.String PREF_SELECTED_VOLUME
+    private static final java.lang.String PREF_LAUNCH_COUNT
+    public static final java.lang.String PREF_GAMESERVICES_USED
+    public static final java.lang.String PREF_CURRENT_SCORE
+    public static final java.lang.String PREF_AD_CLICKED
+    public static final java.lang.String LEADERBOARD_ID
+    public static final boolean DEV_MODE
+    private static final int MAXIMUM_LEVEL_NUMBER
+    private static final int GAME_SCREEN_LOADING
+    private static final int GAME_SCREEN_PLAYING
+    private static final int GAME_SCREEN_ENDED
+    private static final int GAME_SCREEN_RATING
+    private static final int PATH_TYPE_NONE
+    private static final int PATH_TYPE_LINEAL
+    private static final int PATH_TYPE_SPLINE
+    private static final int MOVE_NAME_ANY
+    private static final int MOVE_NAME_FIGHT
+    private static final int MOVE_NAME_FIGHT2
+    private static final int MOVE_NAME_PASSBY
+    private static final int MOVE_NAME_FEINT
+    private static final int MOVE_NAME_FREEFALL
+    private static final int MOVE_NAME_FEINT_DOUBLE
+    private static final int MOVE_NAME_FEINT_GAMOVR
+    private static final int POSITION_TYPE_NORMAL
+    private static final int POSITION_TYPE_FLYBY
+    private static final int POSITION_TYPE_SMILE
+    private static final int POSITION_TYPE_TONGUE
+    private static final int POSITION_TYPE_HURT
+    private static final int POSITION_TYPE_DEAD
+    private static final int BOLINDX_RNDMOV_TRUE
+    private static final int BOLINDX_RNDMOV_FALSE
+    private static final int BOLINDX_RNDMOVSUB_TRUE
+    private static final int BOLINDX_RNDMOVSUB_FALSE
+    private static final int BOLINDX_PAUSEMOV_TRUE
+    private static final int BOLINDX_PAUSEMOV_FALSE
+    private static final int BOLINDX_HELPOINT_TRUE
+    private static final int BOLINDX_HELPOINT_FALSE
+    private static final int BOLINDX_FGHTYPEMOV_TRUE
+    private static final int BOLINDX_FGHTYPEMOV_FALSE
+    private static final int BOLINDX_VARIANCECHAN_TRUE
+    private static final int BOLINDX_VARIANCECHAN_FALSE
+    private static final int BOLINDX_VARIANCEHORVERT_TRUE
+    private static final int BOLINDX_VARIANCEHORVERT_FALSE
+    private static final int BOLINDX_SHOWSHIELD_TRUE
+    private static final int BOLINDX_SHOWSHIELD_FALSE
+    private static final int BOLINDX_SHOWADS_TRUE
+    private static final int BOLINDX_SHOWADS_FALSE
+    private static final int BOLINDX_VERTHOZFEINT_TRUE
+    private static final int BOLINDX_VERTHOZFEINT_FALSE
+    private static final int BOLINDX_SHOWINVISIBLE_TRUE
+    private static final int BOLINDX_SHOWINVISIBLE_FALSE
+    private static final int BOLINDX_SHOWSPRAY_TRUE
+    private static final int BOLINDX_SHOWSPRAY_FALSE
+    private static final int BOLINDX_MINIBOMB_TRUE
+    private static final int BOLINDX_MINIBOMB_FALSE
+    private static final int BOLINDX_ADHACK_TRUE
+    private static final int BOLINDX_ADHACK_FALSE
+    private static final int VARIANCE_TYPE_HIGH
+    private static final int VARIANCE_TYPE_LOW
+    private static final float FLAP_ANIMATION_SPEED
+    private static final float TIME_STEP
+    com.badlogic.gdx.graphics.Texture tempTexture
+    com.badlogic.gdx.graphics.g2d.TextureRegion flyBombUpTexture
+    com.badlogic.gdx.graphics.g2d.TextureRegion flyBombDownTexture
+    com.badlogic.gdx.math.Rectangle shotsRectangle
+    float accelX
+    float accelY
+    float accelZ
+    1543:1560:boolean memoryRandom()
+    1721:1761:int[] getRandomPosRandomVariance(int,int,int,int,int[])
+    1797:1805:int[] getQuadrantHorizontalBounds(int)
+    1815:1823:int[] getQuadrantVerticalBounds(int)
+    3137:3141:void putBomb()
+    4490:4504:void updateAccelReadings()
+com.protogab.chikungunya.R
+com.protogab.chikungunya.R$attr
+com.protogab.chikungunya.R$color
+com.protogab.chikungunya.R$drawable
+com.protogab.chikungunya.R$id
+com.protogab.chikungunya.R$integer
+com.protogab.chikungunya.R$string
+com.protogab.chikungunya.R$style
+com.protogab.chikungunya.R$styleable
+com.protogab.chikungunya.R$xml
